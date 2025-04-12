@@ -12,3 +12,5 @@ Refer to the `files_for_lab/we_fn_use_c_marketing_customer_value_analysis.csv` d
 4. Identify **Measurements** and **Dimensions**. Are they the same as the ones in your Pandas dataframe? Modify accordingly.
 5. Save as `unit-4-lab.tbwx`.
 https://public.tableau.com/views/unit4-lab/Sheet2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Tableau Charting: https://public.tableau.com/shared/TNBH54Y5X?:display_count=n&:origin=viz_share_link 
